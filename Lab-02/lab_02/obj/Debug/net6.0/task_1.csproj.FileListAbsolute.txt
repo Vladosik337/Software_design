@@ -1,0 +1,15 @@
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\bin\Debug\net6.0\task_1.exe
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\bin\Debug\net6.0\task_1.deps.json
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\bin\Debug\net6.0\task_1.runtimeconfig.json
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\bin\Debug\net6.0\task_1.dll
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\bin\Debug\net6.0\task_1.pdb
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.dll
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\refint\task_1.dll
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.pdb
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+G:\Інститут\2 курс\КПЗ\lab_02\lab_02\obj\Debug\net6.0\ref\task_1.dll
